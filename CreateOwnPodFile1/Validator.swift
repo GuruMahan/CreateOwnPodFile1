@@ -7,6 +7,6 @@
 
 import Foundation
 
-public class Validator {
+public class Validator: NSObject {
     public var name = "Guru Mahan"
 }
