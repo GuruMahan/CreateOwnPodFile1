@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CreateOwnPodFile1"
-  spec.version      = "1.3.0"
+  spec.version      = "1.4.0"
   spec.summary      = "This is a best framework"
   spec.description  = "i have a no idea what to write as a description"
   spec.homepage     = "https://github.com/GuruMahan/CreateOwnPodFile1"
